@@ -15,7 +15,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Funny GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
-![Funny GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social)
+
 
 ![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devpratikgawade)
 
