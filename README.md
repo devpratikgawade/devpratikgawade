@@ -13,4 +13,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Your activity graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
+[![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devpratikgawade)](https://github.com/ashutosh00710/github-readme-activity-graph)
