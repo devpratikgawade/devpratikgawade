@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social)
 
+![Funny GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ![Funny GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
