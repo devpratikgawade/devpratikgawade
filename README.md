@@ -5,13 +5,13 @@
 - 📫 How to reach me, email me on gawadepratik75@gmail.com
 - 😄 Pronouns: pratik
 - ⚡ Fun fact: Butterfly effect is also in data analysis 
-
+![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social)
 <!---
 devpratikgawade/devpratikgawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social) ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devpratikgawade&show_icons=true)
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devpratikgawade&show_icons=true)
 
 ![Funny GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
