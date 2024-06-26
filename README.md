@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on data anlysis project
 - 📫 How to reach me, email me on gawadepratik75@gmail.com
 - 😄 Pronouns: pratik
-- ⚡ Fun fact: Butterfly effect is also in data analysis 
+- ⚡ Fun fact: Butterfly effect is also in data analysis
+  
 ![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social)
 <!---
 devpratikgawade/devpratikgawade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
