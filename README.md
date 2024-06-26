@@ -11,10 +11,10 @@ devpratikgawade/devpratikgawade is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/devpratikgawade?label=Follow&style=social) ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devpratikgawade&show_icons=true)
 
 ![Funny GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ![Pratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devpratikgawade)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devpratikgawade&show_icons=true)
+
